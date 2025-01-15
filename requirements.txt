@@ -356,9 +356,9 @@ tomli==2.2.1
     # via black
     # via pytest
     # via refiners
-torch==2.0.1
-torchvision==0.15.2
-torchaudio==2.0.2
+torch==2.1.0
+torchvision==0.15.0
+torchaudio==2.1.0
     # via piq
     # via refiners
     # via segment-anything-hq
