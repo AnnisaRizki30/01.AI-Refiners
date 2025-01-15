@@ -356,14 +356,9 @@ tomli==2.2.1
     # via black
     # via pytest
     # via refiners
-torch==2.3.0
-    # via bitsandbytes
-    # via refiners
-    # via segment-anything-hq
-    # via segment-anything-py
-    # via timm
-    # via torchvision
-torchvision==0.18.0
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
     # via piq
     # via refiners
     # via segment-anything-hq
