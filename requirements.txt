@@ -358,7 +358,7 @@ tomli==2.2.1
     # via refiners
 torch==2.1.0
 torchvision
-torchaudio==2.1.0
+torchaudio
     # via piq
     # via refiners
     # via segment-anything-hq
