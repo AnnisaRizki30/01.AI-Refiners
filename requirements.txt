@@ -356,7 +356,7 @@ tomli==2.2.1
     # via black
     # via pytest
     # via refiners
-torch
+torch==2.3.0
 torchvision
 torchaudio
     # via piq
