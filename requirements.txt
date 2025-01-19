@@ -176,7 +176,7 @@ neptune==1.13.0
     # via refiners
 networkx==3.4.2
     # via torch
-numpy==2.2.0
+numpy==2.0.0
     # via bitsandbytes
     # via datasets
     # via diffusers
